@@ -2,6 +2,8 @@
 
 It is a java edition resource pack that upgrades the GUI for Minecraft Java Edition!
 
+This project is Free and Open Source, I am not putting a license on it as I would like it to be Free and Open Source
+
 ---
 
 ## Patch Notes:
