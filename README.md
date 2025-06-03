@@ -1,4 +1,4 @@
-# Better-GUI v1.0.1
+![edition](https://github.com/user-attachments/assets/79579913-b3c5-4438-83a0-b3ed97fac0ee)
 
 It is a resource pack that upgrades the GUI for Minecraft Java Edition!
 
