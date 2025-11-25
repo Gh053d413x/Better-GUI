@@ -1,4 +1,4 @@
-[![Better GUI Logo](https://github.com/user-attachments/assets/79579913-b3c5-4438-83a0-b3ed97fac0ee)](#)
+<img width="1298" height="189" alt="edition" src="https://github.com/user-attachments/assets/10f9928a-298c-4f42-b1fd-2fbf950f03ae" />
 
 It is a java edition resource pack that upgrades the GUI for Minecraft Java Edition!
 
@@ -6,18 +6,20 @@ This project is Free and Open Source.
 
 ---
 
-<img width="61" height="55" alt="image" src="https://github.com/user-attachments/assets/ae744677-04b9-4235-b075-739df8bdb591" />
+Version Beta 1.1 - The Parity Update
 
-Version 1.1 - The Parity Update
+Beta 1.2 Coming Soon!
+Beta 1.2 will require a minecraft version of 1.21.9 or later
 
 ## Patch Notes: 
 
 - Modified Many kinds of User Interfaces:
    - Title
 
-<img width="2553" height="1008" alt="image" src="https://github.com/user-attachments/assets/7db8d402-7528-4aef-a691-11a852a3a652" />
+<img width="2560" height="1017" alt="2025-11-24_23 27 36" src="https://github.com/user-attachments/assets/32701f98-1b60-414c-9bc0-9c587ff71627" />
 
    - Creative Inventory
+
 
 <img width="664" height="606" alt="image" src="https://github.com/user-attachments/assets/033706cb-8854-4812-92a5-6561787ca148" />
 <img width="656" height="604" alt="image" src="https://github.com/user-attachments/assets/406ce21b-50df-45da-a391-ada251724d1a" />
